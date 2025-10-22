@@ -32,7 +32,7 @@ process.php, form.php, vincheck.php → Core PHP scripts for VIN verification an
 ## 🛠️ Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Vin-Quote-Generator.git
+   git clone https://github.com/UsamaAmanat/Vin-Quote-Generator
    ```
 2. **Place the project** in your local server directory (e.g., `htdocs` or `www`).
 3. **Run the server** using XAMPP, WAMP, or another PHP environment.
